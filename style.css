@@ -112,7 +112,7 @@ main  h2 {
 
 
 main {
-   background-color: var(--cor5);
+    background-color: var(--cor5);
     box-shadow: 5px 5px 15px #0680068e;
     border-radius: 15px;
     min-width: 320px;
